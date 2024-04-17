@@ -21,4 +21,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries, contact [Srihari](mailto:srihariharasudhan.balakannan@gmail.com).
+For inquiries, contact [mail me](mailto:srihariharasudhan.balakannan@gmail.com).
