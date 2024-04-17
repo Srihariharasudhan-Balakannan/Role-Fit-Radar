@@ -16,7 +16,7 @@
 
 4. **Implement Core Functionality**:
    - Write code to parse PDF resumes using pdfplumber.
-   - Implement ATS scoring algorithm to analyze resumes.
+   - Implement an ATS scoring algorithm to analyze resumes.
    - Develop logic to compare job roles and resumes for compatibility.
 
 5. **Integrate Natural Language Processing (NLP)**:
@@ -48,4 +48,4 @@
     - Address user feedback and suggestions for improvements.
     - Keep dependencies up to date and apply necessary updates.
 
-By completing these tasks, we will be able to create a functional and reliable "Role Fit Radar" application.
+By completing these tasks, we will be able to create a functional and reliable **"Role Fit Radar"** application.
